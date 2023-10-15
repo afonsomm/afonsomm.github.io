@@ -1,5 +1,5 @@
 {
-    "name": "intro-spark",
+    "name": "intro-pyspark",
 
     "build": {
         "dockerfile": "Dockerfile"
