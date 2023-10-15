@@ -1,0 +1,5 @@
+{
+    "name": "quarto-init",
+
+    "image": "afonsomm/micromamba-quarto-dev:latest"
+}
